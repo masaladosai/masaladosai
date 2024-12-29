@@ -1,5 +1,5 @@
 # 💫 About Me:
-I m trying to work with automation rn....if u interested contact me (how that I have to figure out)
+I m trying to work with automation rn....if u interested contact me (contact me how? That I have to figure out)
 
 
 # 💻 Tech Stack:
