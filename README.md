@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.icegif.com/wp-content/uploads/2024/03/avatar-icegif-2.gif)"  />
 
 ###
 
