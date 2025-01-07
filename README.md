@@ -17,10 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-</div>
-<div align="center" margin-top="2px"><img src="https://github-readme-stats.vercel.app/api?username=masala-DosAi&theme=default&show_icons=true&hide_border=true&count_private=true">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=masala-DosAi&theme=default&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masala-DosAi&theme=default&show_icons=true&hide_border=true&layout=compact">
-</div>
+![masala-DosAi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=masala-DosAi&theme=highcontrast&hide_border=true)
 
 ###
