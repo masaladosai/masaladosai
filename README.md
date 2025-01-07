@@ -17,6 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-https://github-readme-streak-stats.herokuapp.com/?user=masala-DosAi&theme=highcontrast&hide_border=true
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masala-DosAi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
 
 ###
