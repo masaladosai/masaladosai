@@ -1,25 +1,18 @@
-<h2 align="left">Hi 👋! My name is masala dosa and I'm new to coding</h2>
-
-###
-
-<img align="right" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/226a6ab1-62d5-4126-a21d-7f7d0c17a7d0/d5zc0dh-14d77a75-069d-4533-bbaa-518b18dd24fb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIyNmE2YWIxLTYyZDUtNDEyNi1hMjFkLTdmN2QwYzE3YTdkMFwvZDV6YzBkaC0xNGQ3N2E3NS0wNjlkLTQ1MzMtYmJhYS01MThiMThkZDI0ZmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CMz-x4S1oSH5v-owLpGYAN4TIOvndPM8kytdQxBiIQI"  />
-
-###
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-</div>
- <img width="500" height="300"src="https://github-readme-stats.vercel.app/api/top-langs/?username=masala-DosAi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=masala-DosAi&theme=merko&hide_border=true">
- <img width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=masala-DosAi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
-
-###
+<h1>Hi 👋, I'm masala dosa</h1>
+<p>well I m new to coding so nvm </p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<h2>✒️ Recent Posts</h2>
+<ul>
+<li><a target="_blank" href=""></a></li>
+<li><a target="_blank" href=""></a></li>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://twitter.com/masala__dosai" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=masala-DosAi&show_icons=true&locale=en" alt="masala-DosAi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masala-DosAi&" alt="masala-DosAi" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=masala-DosAi&show_icons=true&locale=en&layout=compact" alt="masala-DosAi" /></p>
