@@ -19,9 +19,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
 </div>
-
-###
-
+![masala-DosAi's Stats](https://github-readme-stats.vercel.app/api?username=masala-DosAi&theme=default&show_icons=true&hide_border=true&count_private=true)
+![masala-DosAi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=masala-DosAi&theme=default&hide_border=true)
+![masala-DosAi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masala-DosAi&theme=default&show_icons=true&hide_border=true&layout=compact)
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
