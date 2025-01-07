@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
 </div>
  <img width="500" height="300"src="https://github-readme-stats.vercel.app/api/top-langs/?username=masala-DosAi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
- <img width="500" height="300"src="https://github-readme-streak-stats.herokuapp.com/?user=masala-DosAi&theme=tokyonight&hide_border=false">
+ ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=masala-DosAi&theme=merko&hide_border=true)
  <img width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=masala-DosAi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
 
 ###
