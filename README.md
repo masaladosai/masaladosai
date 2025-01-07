@@ -10,5 +10,4 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/masala__dosai" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=masala-DosAi&show_icons=true&locale=en" alt="masala-DosAi" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masala-DosAi&" alt="masala-DosAi" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=masala-DosAi&show_icons=true&locale=en&layout=compact" alt="masala-DosAi" />
