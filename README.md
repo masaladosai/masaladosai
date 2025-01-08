@@ -10,5 +10,8 @@
 <a target="_blank" href="" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png?20200511151950" alt="git" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/masala__dosai" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=masala-DosAi&show_icons=true&locale=en" alt="masala-DosAi" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=masala-DosAi&show_icons=true&locale=en&layout=compact" alt="masala-DosAi" />
+# 📊 GitHub Stats:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=masala-DosAi&theme=neon&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=masala-DosAi&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=masala-DosAi&theme=neon&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
