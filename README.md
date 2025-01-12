@@ -12,15 +12,9 @@
 <p><a target="_blank" href="https://twitter.com/masala__dosai" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
 
 
-
-
-
-
-
-
-
-
-
+![masala-DosAi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=masala-DosAi&theme=radical&hide_border=false)
+![masala-DosAi's Stats](https://github-readme-stats.vercel.app/api?username=masala-DosAi&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![masala-DosAi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masala-DosAi&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 
 
