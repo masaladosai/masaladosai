@@ -13,8 +13,9 @@
 
 
 
-![masala-DosAi's Stats](https://github-readme-stats.vercel.app/api?username=masala-DosAi&theme=radical&show_icons=true&hide_border=false&count_private=true)
-![masala-DosAi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masala-DosAi&theme=radical&show_icons=true&hide_border=false&layout=compact)
+![masala-Dosai's Stats](https://github-readme-stats.vercel.app/api?username=masala-Dosai&theme=vue&show_icons=true&hide_border=false&count_private=true)
+![masala-Dosai's Streak](https://github-readme-streak-stats.herokuapp.com/?user=masala-Dosai&theme=vue&hide_border=false)
+![masala-Dosai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masala-Dosai&theme=vue&show_icons=true&hide_border=false&layout=compact)
 
 
 
