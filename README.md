@@ -12,7 +12,6 @@
 
 
 
-![masala-Dosai's Stats](https://github-readme-stats.vercel.app/api?username=24f1002341&theme=vue&show_icons=true&hide_border=false&count_private=true)
 ![masala-Dosai's Streak](https://github-readme-streak-stats.herokuapp.com/?user=24f1002341&theme=vue&hide_border=false)
 ![masala-DosAi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=24f1002341&theme=default&show_icons=true&hide_border=true&layout=compact)
 
