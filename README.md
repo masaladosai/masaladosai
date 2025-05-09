@@ -12,8 +12,12 @@
 
 
 
-![masala-Dosai's Streak](https://github-readme-streak-stats.herokuapp.com/?user=24f1002341&theme=vue&hide_border=false)
-![masala-DosAi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=24f1002341&theme=default&show_icons=true&hide_border=true&layout=compact)
+<table>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=24f1002341&theme=vue-dark&hide_border=true" alt="GitHub Streak" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24f1002341&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /></td>
+  </tr>
+</table>
 
 
 
