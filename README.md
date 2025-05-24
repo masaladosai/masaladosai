@@ -15,8 +15,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=24f1002341&theme=vue-dark&hide_border=true" alt="GitHub Streak" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24f1002341&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=masaladosai&theme=vue-dark&hide_border=true" alt="GitHub Streak" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masaladosai&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /></td>
   </tr>
 </table>
 
