@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Hi 👋, I'm masala dosa</h1>
+  <h1>Hi 👋, I'm Yash and I like masaladosa</h1>
 
   <h2>🚀 Languages I Use</h2>
   <a href="https://skillicons.dev">
